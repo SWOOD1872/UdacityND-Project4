@@ -1,1 +1,9 @@
-<paste log output from Kubernetes-mediated prediction, here>
+-> ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "devops" already exists
+NAME                                                        READY   STATUS    RESTARTS   AGE
+build4dkserver-1593260857-dkserver-deploy-699c97b8b-mmc4z   1/1     Running   1          220d
+build4dkserver-1593260857-dkserver-deploy-699c97b8b-sp7th   1/1     Running   1          220d
+devops                                                      1/1     Running   0          5m18s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
