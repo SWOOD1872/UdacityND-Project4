@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![SWOOD1872](https://circleci.com/gh/SWOOD1872/UdacityND-Project4.svg?style=svg)](https://app.circleci.com/pipelines/github/SWOOD1872/UdacityND-Project4)
  
 ## Project Overview
 
